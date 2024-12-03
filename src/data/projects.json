@@ -1,25 +1,33 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Food Saver App",
+    "imageSrc": "projects/foodsaving.png",
+    "description": "A mobile app designed to reduce food waste by connecting users with surplus food options.",
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Website Redesign",
+    "imageSrc": "projects/web-redesign.png",
+    "description": "A project to modernize a website with a fresh design and improved user experience",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Sass"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Video Editing",
+    "imageSrc": "projects/video-editing.png",
+    "description": "Edited and produced videos to enhance storytelling and engagement",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

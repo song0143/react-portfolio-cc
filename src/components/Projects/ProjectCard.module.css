@@ -59,3 +59,36 @@
   background: var(--color-primary);
   padding: 1px 22px;
 }
+
+.image {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  /* Adjust as necessary for your layout */
+  object-fit: cover;
+  border-radius: 8px;
+  /* Optional: add rounded corners */
+}
+
+/* Ensure container is responsive */
+.container {
+  flex: 1 1 calc(33.333% - 1rem);
+  /* Example for 3 columns with gap */
+  margin: 0.5rem;
+  box-sizing: border-box;
+}
+
+/* Add responsive styles for different screen sizes */
+@media (max-width: 768px) {
+  .container {
+    flex: 1 1 calc(50% - 1rem);
+    /* Adjust to 2 columns on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    flex: 1 1 100%;
+    /* Full-width on very small screens */
+  }
+}
