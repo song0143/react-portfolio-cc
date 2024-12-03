@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a multimedia developer with years of experience in animation, TV, and online education. Passionate about designing all kinds of media and diving into marketing. Let's connect!
         </p>
-        <a href="ritasong2018@gmail.com" className={styles.contactBtn}>
+        <a href="mailto:luyunritasong@outlook.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

@@ -4,7 +4,7 @@
     "imageSrc": "projects/foodsaving.png",
     "description": "A mobile app designed to reduce food waste by connecting users with surplus food options.",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://www.figma.com/design/TrLOQiF0eeD2r7UoS0XjQz/Hi-Fi-Wireframes?node-id=0-1&t=wk8Mm3M4VMW5IVaj-1"
   },
   {
     "title": "Website Redesign",
@@ -17,7 +17,7 @@
       "Sass"
     ],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://www.figma.com/design/GTaggFq9DMvFh4U7sUI0No/media_project_planning?node-id=0-1&t=Y1doZlJz8NsHiFVa-1"
   },
   {
     "title": "Video Editing",
@@ -29,6 +29,6 @@
       "Node"
     ],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://youtu.be/GxCZYq3351M?si=Fs309CtxLFNEREka"
   }
 ]
