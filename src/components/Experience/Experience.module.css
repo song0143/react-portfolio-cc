@@ -50,11 +50,6 @@
   width: 75px;
 }
 
-.skill p {
-  font-size: 25px;
-  font-family: var(--font-roboto);
-  font-weight: 500;
-}
 
 .history {
   width: 45%;
@@ -78,9 +73,16 @@
   width: 50px;
 }
 
-.historyItemDetails {
-  font-family: var(--font-roboto);
+.skill p {
+  font-size: 25px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-weight: 500;
 }
+
+.historyItemDetails {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
 
 .historyItemDetails h3 {
   font-size: 30px;
